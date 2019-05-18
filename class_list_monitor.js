@@ -21,9 +21,9 @@
 /**
  * Description
  *
- * Monitor for chnages within the class list of all elements in the dom
+ * Monitor for changes within the class list of all elements in the dom
  * 
- * @module Title
+ * @module ClassListMonitor
  */
 var ClassListMonitor = {
   version: '1.0.0'
