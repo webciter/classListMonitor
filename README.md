@@ -4,7 +4,7 @@ Monitor for changes in the ClassList of an Element
 <h2>Events</h2>
 <h3>ClassListChanged</h3>
 
-You can capture changes to the class list with event.target.detail.oldClassList and compare with the current element values in 
+You can capture changes to the class list with event.detail.oldClassList and compare with the current element values in 
 element.classList. Only bind this Event to the elements that require monitoring.
 
 <pre>
