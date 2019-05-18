@@ -9,7 +9,7 @@ element.classList. Only bind this Event to the elements that require monitoring.
 
 <pre>
 document.getElementById("element_to_monitor").addEventListener("ClassListChanged", function(event){
-   console.log("newClassList", event.target.classList, "oldClassList", event.target.detail.oldClassList);
+   console.log("newClassList", event.target.classList, "oldClassList", event.detail.oldClassList);
 });
 </pre>
 
