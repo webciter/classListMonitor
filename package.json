@@ -1,0 +1,24 @@
+{
+  "name": "dom_token_list-functions-class_list_monitor",
+  "version": "1.0.0",
+  "description": "Monitor for changes in the ClassList of an Element",
+  "main": "class_list_monitor.js",
+  "dependencies": {
+   
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webciter/classListMonitor.git"
+  },
+  "keywords": [
+    "css","classList","DOMTokenList","element","class","detect","changes"
+  ],
+  "author": "David Clews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webciter/classListMonitor/issues"
+  },
+  "homepage": "https://github.com/webciter/classListMonitor#readme"
+}
